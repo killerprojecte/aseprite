@@ -76,4 +76,4 @@ jobs:
       with:
         name: Artifacts
         path: |
-          $PWD/build/
+          build/
